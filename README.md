@@ -1,5 +1,4 @@
 # NLP Tokenization
-Bu repository, Python'da Natural Language Processing (NLP) için temel tokenization işlemlerini gerçekleştiren bir örnek projedir. Tokenization, bir metni anlamlı parçalara ayırma işlemidir. Bu proje, verilen metnin kelime ve cümle bazında tokenlara ayrılmasını sağlar.
 
 ## Proje Özeti
 Bu Python kodu, nltk (Natural Language Toolkit) kütüphanesini kullanarak girilen metni kelime bazında (``word_tokenize``) ve cümle bazında (``sent_tokenize``) tokenize eder. Sonuç olarak, metnin her bir kelimesi ve cümlesi ayrı ayrı gösterilir.
